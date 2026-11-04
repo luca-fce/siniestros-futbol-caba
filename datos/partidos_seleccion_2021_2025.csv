@@ -1,0 +1,68 @@
+fecha,hora_arg,rival,competencia,condicion,city,country,goles_a_favor,goles_en_contra,resultado,alargue,penales
+2021-06-03,21:00,Chile,FIFA World Cup qualification,Home,Santiago del Estero,Argentina,1,1,Empate,False,False
+2021-06-08,20:00,Colombia,FIFA World Cup qualification,Away,Barranquilla,Colombia,2,2,Empate,False,False
+2021-06-14,18:00,Chile,Copa América,Neutral,Rio de Janeiro,Brazil,1,1,Empate,False,False
+2021-06-18,21:00,Uruguay,Copa América,Neutral,Brasília,Brazil,1,0,Victoria,False,False
+2021-06-21,21:00,Paraguay,Copa América,Neutral,Brasília,Brazil,1,0,Victoria,False,False
+2021-06-28,21:00,Bolivia,Copa América,Neutral,Cuiabá,Brazil,4,1,Victoria,False,False
+2021-07-03,22:00,Ecuador,Copa América,Neutral,Goiânia,Brazil,3,0,Victoria,False,False
+2021-07-06,22:00,Colombia,Copa América,Neutral,Brasília,Brazil,1,1,Victoria,False,True
+2021-07-10,21:00,Brazil,Copa América,Away,Rio de Janeiro,Brazil,1,0,Victoria,False,False
+2021-09-02,21:00,Venezuela,FIFA World Cup qualification,Away,Caracas,Venezuela,3,1,Victoria,False,False
+2021-09-09,20:30,Bolivia,FIFA World Cup qualification,Home,Buenos Aires,Argentina,3,0,Victoria,False,False
+2021-10-07,20:30,Paraguay,FIFA World Cup qualification,Away,Asunción,Paraguay,0,0,Empate,False,False
+2021-10-10,20:30,Uruguay,FIFA World Cup qualification,Home,Buenos Aires,Argentina,3,0,Victoria,False,False
+2021-10-14,20:30,Peru,FIFA World Cup qualification,Home,Buenos Aires,Argentina,1,0,Victoria,False,False
+2021-11-12,20:30,Uruguay,FIFA World Cup qualification,Away,Montevideo,Uruguay,1,0,Victoria,False,False
+2021-11-16,20:30,Brazil,FIFA World Cup qualification,Home,San Juan,Argentina,0,0,Empate,False,False
+2022-01-27,21:15,Chile,FIFA World Cup qualification,Away,Calama,Chile,2,1,Victoria,False,False
+2022-02-01,20:30,Colombia,FIFA World Cup qualification,Home,Córdoba,Argentina,1,0,Victoria,False,False
+2022-03-25,20:30,Venezuela,FIFA World Cup qualification,Home,Buenos Aires,Argentina,3,0,Victoria,False,False
+2022-03-29,20:30,Ecuador,FIFA World Cup qualification,Away,Guayaquil,Ecuador,1,1,Empate,False,False
+2022-06-01,15:45,Italy,CONMEBOL–UEFA Cup of Champions,Neutral,Paris,France,3,0,Victoria,False,False
+2022-06-05,14:00,Estonia,Friendly,Neutral,Pamplona,Spain,5,0,Victoria,False,False
+2022-09-23,22:00,Honduras,Friendly,Neutral,Miami Gardens,United States,3,0,Victoria,False,False
+2022-09-27,22:00,Jamaica,Friendly,Neutral,Harrison,United States,3,0,Victoria,False,False
+2022-11-16,12:30,United Arab Emirates,Friendly,Away,Abu Dhabi,United Arab Emirates,5,0,Victoria,False,False
+2022-11-22,07:00,Saudi Arabia,FIFA World Cup,Neutral,Lusail,Qatar,1,2,Derrota,False,False
+2022-11-26,16:00,Mexico,FIFA World Cup,Neutral,Lusail,Qatar,2,0,Victoria,False,False
+2022-11-30,16:00,Poland,FIFA World Cup,Neutral,Doha,Qatar,2,0,Victoria,False,False
+2022-12-03,16:00,Australia,FIFA World Cup,Neutral,Al Rayyan,Qatar,2,1,Victoria,False,False
+2022-12-09,16:00,Netherlands,FIFA World Cup,Neutral,Lusail,Qatar,2,2,Victoria,True,True
+2022-12-13,16:00,Croatia,FIFA World Cup,Neutral,Lusail,Qatar,3,0,Victoria,False,False
+2022-12-18,12:00,France,FIFA World Cup,Neutral,Lusail,Qatar,3,3,Victoria,True,True
+2023-03-23,20:30,Panama,Friendly,Home,Buenos Aires,Argentina,2,0,Victoria,False,False
+2023-03-28,20:30,Curaçao,Friendly,Home,Santiago del Estero,Argentina,7,0,Victoria,False,False
+2023-06-15,09:00,Australia,Friendly,Neutral,Beijing,China,2,0,Victoria,False,False
+2023-06-19,09:30,Indonesia,Friendly,Away,Jakarta,Indonesia,2,0,Victoria,False,False
+2023-09-07,21:00,Ecuador,FIFA World Cup qualification,Home,Buenos Aires,Argentina,1,0,Victoria,False,False
+2023-09-12,17:00,Bolivia,FIFA World Cup qualification,Away,La Paz,Bolivia,3,0,Victoria,False,False
+2023-10-12,21:00,Paraguay,FIFA World Cup qualification,Home,Buenos Aires,Argentina,1,0,Victoria,False,False
+2023-10-17,23:00,Peru,FIFA World Cup qualification,Away,Lima,Peru,2,0,Victoria,False,False
+2023-11-16,21:00,Uruguay,FIFA World Cup qualification,Home,Buenos Aires,Argentina,0,2,Derrota,False,False
+2023-11-21,21:30,Brazil,FIFA World Cup qualification,Away,Rio de Janeiro,Brazil,1,0,Victoria,False,False
+2024-03-22,21:00,El Salvador,Friendly,Neutral,Philadelphia,United States,3,0,Victoria,False,False
+2024-03-26,23:50,Costa Rica,Friendly,Neutral,Los Angeles,United States,3,1,Victoria,False,False
+2024-06-09,19:00,Ecuador,Friendly,Neutral,Chicago,United States,1,0,Victoria,False,False
+2024-06-14,21:00,Guatemala,Friendly,Neutral,Landover,United States,4,1,Victoria,False,False
+2024-06-20,21:00,Canada,Copa América,Neutral,Atlanta,United States,2,0,Victoria,False,False
+2024-06-25,22:00,Chile,Copa América,Neutral,East Rutherford,United States,1,0,Victoria,False,False
+2024-06-29,21:00,Peru,Copa América,Neutral,Miami Gardens,United States,2,0,Victoria,False,False
+2024-07-04,22:00,Ecuador,Copa América,Neutral,Houston,United States,1,1,Victoria,False,True
+2024-07-09,21:00,Canada,Copa América,Neutral,East Rutherford,United States,2,0,Victoria,False,False
+2024-07-14,22:22,Colombia,Copa América,Neutral,Miami Gardens,United States,1,0,Victoria,True,False
+2024-09-05,21:00,Chile,FIFA World Cup qualification,Home,Buenos Aires,Argentina,3,0,Victoria,False,False
+2024-09-10,19:30,Colombia,FIFA World Cup qualification,Away,Barranquilla,Colombia,1,2,Derrota,False,False
+2024-10-10,18:00,Venezuela,FIFA World Cup qualification,Away,Maturín,Venezuela,1,1,Empate,False,False
+2024-10-15,21:00,Bolivia,FIFA World Cup qualification,Home,Buenos Aires,Argentina,6,0,Victoria,False,False
+2024-11-14,20:30,Paraguay,FIFA World Cup qualification,Away,Asunción,Paraguay,1,2,Derrota,False,False
+2024-11-19,21:45,Peru,FIFA World Cup qualification,Home,Buenos Aires,Argentina,1,0,Victoria,False,False
+2025-03-21,20:30,Uruguay,FIFA World Cup qualification,Away,Montevideo,Uruguay,1,0,Victoria,False,False
+2025-03-25,21:00,Brazil,FIFA World Cup qualification,Home,Buenos Aires,Argentina,4,1,Victoria,False,False
+2025-06-05,22:00,Chile,FIFA World Cup qualification,Away,Santiago,Chile,1,0,Victoria,False,False
+2025-06-10,21:00,Colombia,FIFA World Cup qualification,Home,Buenos Aires,Argentina,1,1,Empate,False,False
+2025-09-04,20:30,Venezuela,FIFA World Cup qualification,Home,Buenos Aires,Argentina,3,0,Victoria,False,False
+2025-09-09,20:00,Ecuador,FIFA World Cup qualification,Away,Guayaquil,Ecuador,0,1,Derrota,False,False
+2025-10-10,21:00,Venezuela,Friendly,Neutral,Miami Gardens,United States,1,0,Victoria,False,False
+2025-10-14,19:00,Puerto Rico,Friendly,Neutral,Fort Lauderdale,United States,6,0,Victoria,False,False
+2025-11-14,13:00,Angola,Friendly,Away,Luanda,Angola,2,0,Victoria,False,False
