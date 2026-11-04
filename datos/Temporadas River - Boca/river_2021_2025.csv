@@ -1,0 +1,253 @@
+equipo,temporada,inicio,fin,hora_arg,competencia,instancia,condicion,rival,goles_a_favor,goles_en_contra,penales,penales_a_favor,penales_en_contra,alargue,resultado,superclasico
+River Plate,2021,2021-02-14 21:30:00,2021-02-14 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Estudiantes–LP,1,2,False,,,False,Derrota,False
+River Plate,2021,2021-02-20 21:30:00,2021-02-20 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Home,Rosario Central,3,0,False,,,False,Victoria,False
+River Plate,2021,2021-02-28 17:10:00,2021-02-28 19:05:00,17:10,Copa de la Liga Profesional,Group stage,Away,Platense,1,0,False,,,False,Victoria,False
+River Plate,2021,2021-03-08 21:30:00,2021-03-08 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Home,Arg Juniors,0,1,False,,,False,Derrota,False
+River Plate,2021,2021-03-14 18:00:00,2021-03-14 19:55:00,18:00,Copa de la Liga Profesional,Group stage,Away,Boca Juniors,1,1,False,,,False,Empate,True
+River Plate,2021,2021-03-20 21:00:00,2021-03-20 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Away,Godoy Cruz,6,1,False,,,False,Victoria,False
+River Plate,2021,2021-03-28 18:30:00,2021-03-28 20:25:00,18:30,Copa de la Liga Profesional,Group stage,Home,Racing Club,0,0,False,,,False,Empate,False
+River Plate,2021,2021-04-03 21:00:00,2021-04-03 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Away,Arsenal,0,0,False,,,False,Empate,False
+River Plate,2021,2021-04-11 21:00:00,2021-04-11 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Colón,3,2,False,,,False,Victoria,False
+River Plate,2021,2021-04-16 21:30:00,2021-04-16 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,C. Córdoba–SdE,5,0,False,,,False,Victoria,False
+River Plate,2021,2021-04-22 19:00:00,2021-04-22 20:55:00,19:00,Libertadores,Group stage,Away,Fluminense,1,1,False,,,False,Empate,False
+River Plate,2021,2021-04-25 18:00:00,2021-04-25 19:55:00,18:00,Copa de la Liga Profesional,Group stage,Home,CA San Lorenzo,1,2,False,,,False,Derrota,False
+River Plate,2021,2021-04-28 21:00:00,2021-04-28 22:55:00,21:00,Libertadores,Group stage,Home,Junior,2,1,False,,,False,Victoria,False
+River Plate,2021,2021-05-02 16:30:00,2021-05-02 18:25:00,16:30,Copa de la Liga Profesional,Group stage,Away,Banfield,0,1,False,,,False,Derrota,False
+River Plate,2021,2021-05-06 21:00:00,2021-05-06 22:55:00,21:00,Libertadores,Group stage,Away,Santa Fe,0,0,False,,,False,Empate,False
+River Plate,2021,2021-05-09 14:30:00,2021-05-09 16:25:00,14:30,Copa de la Liga Profesional,Group stage,Home,Aldosivi,4,1,False,,,False,Victoria,False
+River Plate,2021,2021-05-12 21:00:00,2021-05-12 22:55:00,21:00,Libertadores,Group stage,Away,Junior,1,1,False,,,False,Empate,False
+River Plate,2021,2021-05-16 17:30:00,2021-05-16 20:10:00,17:30,Copa de la Liga Profesional,Quarter-finals,Away,Boca Juniors,1,1,True,2,4,True,Derrota,True
+River Plate,2021,2021-05-19 21:00:00,2021-05-19 22:55:00,21:00,Libertadores,Group stage,Home,Santa Fe,2,1,False,,,False,Victoria,False
+River Plate,2021,2021-05-25 19:15:00,2021-05-25 21:10:00,19:15,Libertadores,Group stage,Home,Fluminense,1,3,False,,,False,Derrota,False
+River Plate,2021,2021-07-14 21:30:00,2021-07-14 23:25:00,21:30,Libertadores,Round of 16,Home,Arg Juniors,1,1,False,,,False,Empate,False
+River Plate,2021,2021-07-18 18:00:00,2021-07-18 19:55:00,18:00,Liga Argentina,Matchweek 1,Home,Colón,1,2,False,,,False,Derrota,False
+River Plate,2021,2021-07-21 21:30:00,2021-07-21 23:25:00,21:30,Libertadores,Round of 16,Away,Arg Juniors,2,0,False,,,False,Victoria,False
+River Plate,2021,2021-07-25 18:00:00,2021-07-25 19:55:00,18:00,Liga Argentina,Matchweek 2,Home,Unión,4,0,False,,,False,Victoria,False
+River Plate,2021,2021-07-28 21:00:00,2021-07-28 22:55:00,21:00,Liga Argentina,Matchweek 3,Away,Lanús,3,0,False,,,False,Victoria,False
+River Plate,2021,2021-08-01 18:00:00,2021-08-01 19:55:00,18:00,Liga Argentina,Matchweek 4,Home,Huracán,1,1,False,,,False,Empate,False
+River Plate,2021,2021-08-07 20:15:00,2021-08-07 22:10:00,20:15,Liga Argentina,Matchweek 5,Away,Godoy Cruz,1,2,False,,,False,Derrota,False
+River Plate,2021,2021-08-11 21:30:00,2021-08-11 23:25:00,21:30,Libertadores,Quarter-finals,Home,Atlético Mineiro,0,1,False,,,False,Derrota,False
+River Plate,2021,2021-08-14 18:00:00,2021-08-14 19:55:00,18:00,Liga Argentina,Matchweek 6,Home,Vélez Sarsfield,2,0,False,,,False,Victoria,False
+River Plate,2021,2021-08-18 21:30:00,2021-08-18 23:25:00,21:30,Libertadores,Quarter-finals,Away,Atlético Mineiro,0,3,False,,,False,Derrota,False
+River Plate,2021,2021-08-22 20:15:00,2021-08-22 22:10:00,20:15,Liga Argentina,Matchweek 7,Away,Gimnasia–LP,1,1,False,,,False,Empate,False
+River Plate,2021,2021-08-26 21:00:00,2021-08-26 22:55:00,21:00,Liga Argentina,Matchweek 8,Home,Aldosivi,2,0,False,,,False,Victoria,False
+River Plate,2021,2021-08-30 19:00:00,2021-08-30 20:55:00,19:00,Liga Argentina,Matchweek 9,Away,Sarmiento–J,2,1,False,,,False,Victoria,False
+River Plate,2021,2021-09-05 21:15:00,2021-09-05 23:10:00,21:15,Liga Argentina,Matchweek 10,Home,Independiente,1,1,False,,,False,Empate,False
+River Plate,2021,2021-09-15 21:00:00,2021-09-15 22:55:00,21:00,Liga Argentina,Matchweek 11,Away,Newell's,4,1,False,,,False,Victoria,False
+River Plate,2021,2021-09-19 20:15:00,2021-09-19 22:10:00,20:15,Liga Argentina,Matchweek 12,Home,Arsenal,1,0,False,,,False,Victoria,False
+River Plate,2021,2021-09-25 20:15:00,2021-09-25 22:10:00,20:15,Liga Argentina,Matchweek 13,Away,C. Córdoba–SdE,3,1,False,,,False,Victoria,False
+River Plate,2021,2021-10-03 17:00:00,2021-10-03 18:55:00,17:00,Liga Argentina,Matchweek 14,Home,Boca Juniors,2,1,False,,,False,Victoria,True
+River Plate,2021,2021-10-09 18:00:00,2021-10-09 19:55:00,18:00,Liga Argentina,Matchweek 15,Away,Banfield,1,0,False,,,False,Victoria,False
+River Plate,2021,2021-10-17 20:15:00,2021-10-17 22:10:00,20:15,Liga Argentina,Matchweek 16,Home,CA San Lorenzo,3,1,False,,,False,Victoria,False
+River Plate,2021,2021-10-21 21:15:00,2021-10-21 23:10:00,21:15,Liga Argentina,Matchweek 17,Away,Talleres–C,2,0,False,,,False,Victoria,False
+River Plate,2021,2021-10-25 19:00:00,2021-10-25 20:55:00,19:00,Liga Argentina,Matchweek 18,Home,Arg Juniors,3,0,False,,,False,Victoria,False
+River Plate,2021,2021-10-31 20:15:00,2021-10-31 22:10:00,20:15,Liga Argentina,Matchweek 19,Away,Estudiantes–LP,1,1,False,,,False,Empate,False
+River Plate,2021,2021-11-07 20:15:00,2021-11-07 22:10:00,20:15,Liga Argentina,Matchweek 20,Home,Patronato,5,0,False,,,False,Victoria,False
+River Plate,2021,2021-11-21 21:30:00,2021-11-21 23:25:00,21:30,Liga Argentina,Matchweek 21,Away,Platense,1,0,False,,,False,Victoria,False
+River Plate,2021,2021-11-25 21:30:00,2021-11-25 23:25:00,21:30,Liga Argentina,Matchweek 22,Home,Racing Club,4,0,False,,,False,Victoria,False
+River Plate,2021,2021-11-28 17:00:00,2021-11-28 18:55:00,17:00,Liga Argentina,Matchweek 23,Away,Rosario Central,2,2,False,,,False,Empate,False
+River Plate,2021,2021-12-05 21:30:00,2021-12-05 23:25:00,21:30,Liga Argentina,Matchweek 24,Home,Defensa,2,3,False,,,False,Derrota,False
+River Plate,2021,2021-12-11 19:15:00,2021-12-11 21:10:00,19:15,Liga Argentina,Matchweek 25,Away,Atlé Tucumán,1,1,False,,,False,Empate,False
+River Plate,2022,2022-02-12 19:15:00,2022-02-12 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Away,Unión,0,1,False,,,False,Derrota,False
+River Plate,2022,2022-02-16 21:30:00,2022-02-16 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Home,Patronato,4,1,False,,,False,Victoria,False
+River Plate,2022,2022-02-20 21:30:00,2022-02-20 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Newell's,2,0,False,,,False,Victoria,False
+River Plate,2022,2022-02-27 19:15:00,2022-02-27 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Home,Racing Club,2,2,False,,,False,Empate,False
+River Plate,2022,2022-03-05 17:00:00,2022-03-05 18:55:00,17:00,Copa de la Liga Profesional,Group stage,Away,CA San Lorenzo,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-03-13 19:15:00,2022-03-13 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Home,Gimnasia–LP,4,0,False,,,False,Victoria,False
+River Plate,2022,2022-03-20 19:00:00,2022-03-20 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Home,Boca Juniors,0,1,False,,,False,Derrota,True
+River Plate,2022,2022-04-02 19:00:00,2022-04-02 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Away,Defensa,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-04-06 21:00:00,2022-04-06 22:55:00,21:00,Libertadores,Group stage,Away,Alianza Lima,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-04-10 19:00:00,2022-04-10 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Home,Arg Juniors,4,2,False,,,False,Victoria,False
+River Plate,2022,2022-04-13 21:00:00,2022-04-13 22:55:00,21:00,Libertadores,Group stage,Home,Fortaleza,2,0,False,,,False,Victoria,False
+River Plate,2022,2022-04-17 21:30:00,2022-04-17 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Banfield,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-04-20 19:00:00,2022-04-20 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Away,Talleres–C,0,1,False,,,False,Derrota,False
+River Plate,2022,2022-04-24 19:00:00,2022-04-24 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Home,Atlé Tucumán,1,1,False,,,False,Empate,False
+River Plate,2022,2022-04-27 21:00:00,2022-04-27 22:55:00,21:00,Libertadores,Group stage,Away,Colo-Colo,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-04-30 21:30:00,2022-04-30 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Sarmiento–J,7,0,False,,,False,Victoria,False
+River Plate,2022,2022-05-05 19:00:00,2022-05-05 20:55:00,19:00,Libertadores,Group stage,Away,Fortaleza,1,1,False,,,False,Empate,False
+River Plate,2022,2022-05-08 21:00:00,2022-05-08 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Platense,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-05-11 21:30:00,2022-05-11 23:25:00,21:30,Copa de la Liga Profesional,Quarter-finals,Home,Tigre,1,2,False,,,False,Derrota,False
+River Plate,2022,2022-05-19 21:00:00,2022-05-19 22:55:00,21:00,Libertadores,Group stage,Home,Colo-Colo,4,0,False,,,False,Victoria,False
+River Plate,2022,2022-05-25 19:00:00,2022-05-25 20:55:00,19:00,Libertadores,Group stage,Home,Alianza Lima,8,1,False,,,False,Victoria,False
+River Plate,2022,2022-06-05 21:30:00,2022-06-05 23:25:00,21:30,Liga Argentina,Matchweek 1,Away,Defensa,0,0,False,,,False,Empate,False
+River Plate,2022,2022-06-11 20:30:00,2022-06-11 22:25:00,20:30,Liga Argentina,Matchweek 2,Home,Atlé Tucumán,0,0,False,,,False,Empate,False
+River Plate,2022,2022-06-15 19:00:00,2022-06-15 20:55:00,19:00,Liga Argentina,Matchweek 3,Away,Colón,0,1,False,,,False,Derrota,False
+River Plate,2022,2022-06-19 18:00:00,2022-06-19 19:55:00,18:00,Liga Argentina,Matchweek 4,Away,Unión,5,1,False,,,False,Victoria,False
+River Plate,2022,2022-06-25 20:30:00,2022-06-25 22:25:00,20:30,Liga Argentina,Matchweek 5,Home,Lanús,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-06-29 21:30:00,2022-06-29 23:25:00,21:30,Libertadores,Round of 16,Away,Vélez Sarsfield,0,1,False,,,False,Derrota,False
+River Plate,2022,2022-07-03 21:00:00,2022-07-03 22:55:00,21:00,Liga Argentina,Matchweek 6,Away,Huracán,2,3,False,,,False,Derrota,False
+River Plate,2022,2022-07-06 21:30:00,2022-07-06 23:25:00,21:30,Libertadores,Round of 16,Home,Vélez Sarsfield,0,0,False,,,False,Empate,False
+River Plate,2022,2022-07-10 20:30:00,2022-07-10 22:25:00,20:30,Liga Argentina,Matchweek 7,Home,Godoy Cruz,0,2,False,,,False,Derrota,False
+River Plate,2022,2022-07-17 20:30:00,2022-07-17 22:25:00,20:30,Liga Argentina,Matchweek 8,Away,Vélez Sarsfield,2,2,False,,,False,Empate,False
+River Plate,2022,2022-07-21 21:30:00,2022-07-21 23:25:00,21:30,Liga Argentina,Matchweek 9,Home,Gimnasia–LP,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-07-24 15:30:00,2022-07-24 17:25:00,15:30,Liga Argentina,Matchweek 10,Away,Aldosivi,3,0,False,,,False,Victoria,False
+River Plate,2022,2022-07-31 20:30:00,2022-07-31 22:25:00,20:30,Liga Argentina,Matchweek 11,Home,Sarmiento–J,1,2,False,,,False,Derrota,False
+River Plate,2022,2022-08-07 17:30:00,2022-08-07 19:25:00,17:30,Liga Argentina,Matchweek 12,Away,Independiente,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-08-13 20:30:00,2022-08-13 22:25:00,20:30,Liga Argentina,Matchweek 13,Home,Newell's,4,1,False,,,False,Victoria,False
+River Plate,2022,2022-08-17 19:00:00,2022-08-17 20:55:00,19:00,Liga Argentina,Matchweek 14,Away,Arsenal,0,0,False,,,False,Empate,False
+River Plate,2022,2022-08-21 18:00:00,2022-08-21 19:55:00,18:00,Liga Argentina,Matchweek 15,Home,C. Córdoba–SdE,3,0,False,,,False,Victoria,False
+River Plate,2022,2022-08-27 20:30:00,2022-08-27 22:25:00,20:30,Liga Argentina,Matchweek 16,Away,Tigre,1,1,False,,,False,Empate,False
+River Plate,2022,2022-09-04 20:30:00,2022-09-04 22:25:00,20:30,Liga Argentina,Matchweek 17,Home,Barracas Central,2,0,False,,,False,Victoria,False
+River Plate,2022,2022-09-11 17:00:00,2022-09-11 18:55:00,17:00,Liga Argentina,Matchweek 18,Away,Boca Juniors,0,1,False,,,False,Derrota,True
+River Plate,2022,2022-09-14 19:00:00,2022-09-14 20:55:00,19:00,Liga Argentina,Matchweek 19,Home,Banfield,1,2,False,,,False,Derrota,False
+River Plate,2022,2022-09-18 15:30:00,2022-09-18 17:25:00,15:30,Liga Argentina,Matchweek 20,Away,CA San Lorenzo,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-09-24 18:00:00,2022-09-24 19:55:00,18:00,Liga Argentina,Matchweek 21,Home,Talleres–C,0,1,False,,,False,Derrota,False
+River Plate,2022,2022-10-02 20:30:00,2022-10-02 22:25:00,20:30,Liga Argentina,Matchweek 22,Away,Arg Juniors,3,0,False,,,False,Victoria,False
+River Plate,2022,2022-10-05 21:30:00,2022-10-05 23:25:00,21:30,Liga Argentina,Matchweek 23,Home,Estudiantes–LP,5,0,False,,,False,Victoria,False
+River Plate,2022,2022-10-09 20:30:00,2022-10-09 22:25:00,20:30,Liga Argentina,Matchweek 24,Away,Patronato,1,0,False,,,False,Victoria,False
+River Plate,2022,2022-10-12 21:30:00,2022-10-12 23:25:00,21:30,Liga Argentina,Matchweek 25,Home,Platense,2,1,False,,,False,Victoria,False
+River Plate,2022,2022-10-16 20:30:00,2022-10-16 22:25:00,20:30,Liga Argentina,Matchweek 26,Home,Rosario Central,1,2,False,,,False,Derrota,False
+River Plate,2022,2022-10-23 17:00:00,2022-10-23 18:55:00,17:00,Liga Argentina,Matchweek 27,Away,Racing Club,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-01-28 21:30:00,2023-01-28 23:25:00,21:30,Liga Argentina,Matchweek 1,Away,C. Córdoba–SdE,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-02-04 19:15:00,2023-02-04 21:10:00,19:15,Liga Argentina,Matchweek 2,Away,Belgrano,1,2,False,,,False,Derrota,False
+River Plate,2023,2023-02-12 19:15:00,2023-02-12 21:10:00,19:15,Liga Argentina,Matchweek 3,Home,Arg Juniors,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-02-18 18:00:00,2023-02-18 19:55:00,18:00,Liga Argentina,Matchweek 4,Away,Tigre,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-02-26 19:15:00,2023-02-26 21:10:00,19:15,Liga Argentina,Matchweek 5,Home,Arsenal,1,2,False,,,False,Derrota,False
+River Plate,2023,2023-03-04 19:15:00,2023-03-04 21:10:00,19:15,Liga Argentina,Matchweek 6,Away,Lanús,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-03-12 19:15:00,2023-03-12 21:10:00,19:15,Liga Argentina,Matchweek 7,Home,Godoy Cruz,3,0,False,,,False,Victoria,False
+River Plate,2023,2023-03-19 21:30:00,2023-03-19 23:25:00,21:30,Liga Argentina,Matchweek 8,Away,Sarmiento–J,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-03-31 21:30:00,2023-03-31 23:25:00,21:30,Liga Argentina,Matchweek 9,Home,Unión,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-04-04 19:00:00,2023-04-04 20:55:00,19:00,Libertadores,Group stage,Away,The Strongest,1,3,False,,,False,Derrota,False
+River Plate,2023,2023-04-09 19:00:00,2023-04-09 20:55:00,19:00,Liga Argentina,Matchweek 10,Away,Huracán,3,0,False,,,False,Victoria,False
+River Plate,2023,2023-04-13 19:30:00,2023-04-13 21:25:00,19:30,Liga Argentina,Matchweek 11,Home,Gimnasia–LP,3,0,False,,,False,Victoria,False
+River Plate,2023,2023-04-16 19:00:00,2023-04-16 20:55:00,19:00,Liga Argentina,Matchweek 12,Away,Newell's,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-04-19 21:00:00,2023-04-19 22:55:00,21:00,Libertadores,Group stage,Home,Sporting Cristal,4,2,False,,,False,Victoria,False
+River Plate,2023,2023-04-23 20:30:00,2023-04-23 22:25:00,20:30,Liga Argentina,Matchweek 13,Home,Independiente,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-04-28 21:30:00,2023-04-28 23:25:00,21:30,Liga Argentina,Matchweek 14,Away,Atlé Tucumán,1,1,False,,,False,Empate,False
+River Plate,2023,2023-05-02 21:00:00,2023-05-02 22:55:00,21:00,Libertadores,Group stage,Away,Fluminense,1,5,False,,,False,Derrota,False
+River Plate,2023,2023-05-07 17:30:00,2023-05-07 19:25:00,17:30,Liga Argentina,Matchweek 15,Home,Boca Juniors,1,0,False,,,False,Victoria,True
+River Plate,2023,2023-05-14 21:30:00,2023-05-14 23:25:00,21:30,Liga Argentina,Matchweek 16,Away,Talleres–C,1,2,False,,,False,Derrota,False
+River Plate,2023,2023-05-21 20:30:00,2023-05-21 22:25:00,20:30,Liga Argentina,Matchweek 17,Home,Platense,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-05-25 21:00:00,2023-05-25 22:55:00,21:00,Libertadores,Group stage,Away,Sporting Cristal,1,1,False,,,False,Empate,False
+River Plate,2023,2023-05-29 21:30:00,2023-05-29 23:25:00,21:30,Liga Argentina,Matchweek 18,Away,Vélez Sarsfield,2,2,False,,,False,Empate,False
+River Plate,2023,2023-06-07 21:30:00,2023-06-07 23:25:00,21:30,Libertadores,Group stage,Home,Fluminense,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-06-12 19:15:00,2023-06-12 21:10:00,19:15,Liga Argentina,Matchweek 20,Away,Banfield,4,1,False,,,False,Victoria,False
+River Plate,2023,2023-06-17 21:00:00,2023-06-17 22:55:00,21:00,Liga Argentina,Matchweek 19,Home,Defensa,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-06-22 19:45:00,2023-06-22 21:40:00,19:45,Liga Argentina,Matchweek 21,Home,Instituto,3,1,False,,,False,Victoria,False
+River Plate,2023,2023-06-27 21:00:00,2023-06-27 22:55:00,21:00,Libertadores,Group stage,Home,The Strongest,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-07-01 15:00:00,2023-07-01 16:55:00,15:00,Liga Argentina,Matchweek 22,Away,Barracas Central,1,2,False,,,False,Derrota,False
+River Plate,2023,2023-07-05 21:30:00,2023-07-05 23:25:00,21:30,Liga Argentina,Matchweek 23,Home,Colón,2,0,False,,,False,Victoria,False
+River Plate,2023,2023-07-08 20:30:00,2023-07-08 22:25:00,20:30,Liga Argentina,Matchweek 24,Away,CA San Lorenzo,0,0,False,,,False,Empate,False
+River Plate,2023,2023-07-15 19:00:00,2023-07-15 20:55:00,19:00,Liga Argentina,Matchweek 25,Home,Estudiantes–LP,3,1,False,,,False,Victoria,False
+River Plate,2023,2023-07-23 21:00:00,2023-07-23 22:55:00,21:00,Liga Argentina,Matchweek 26,Away,Rosario Central,3,3,False,,,False,Empate,False
+River Plate,2023,2023-07-28 21:30:00,2023-07-28 23:25:00,21:30,Liga Argentina,Matchweek 27,Home,Racing Club,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-08-01 21:00:00,2023-08-01 22:55:00,21:00,Libertadores,Round of 16,Home,Internacional,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-08-08 21:00:00,2023-08-08 23:40:00,21:00,Libertadores,Round of 16,Away,Internacional,1,2,True,8,9,True,Derrota,False
+River Plate,2023,2023-08-20 21:00:00,2023-08-20 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Away,Arg Juniors,2,3,False,,,False,Derrota,False
+River Plate,2023,2023-08-27 21:00:00,2023-08-27 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Barracas Central,5,1,False,,,False,Victoria,False
+River Plate,2023,2023-09-02 21:30:00,2023-09-02 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Vélez Sarsfield,0,2,False,,,False,Derrota,False
+River Plate,2023,2023-09-17 19:30:00,2023-09-17 21:25:00,19:30,Copa de la Liga Profesional,Group stage,Home,Arsenal,3,1,False,,,False,Victoria,False
+River Plate,2023,2023-09-21 21:00:00,2023-09-21 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Atlé Tucumán,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-09-24 21:00:00,2023-09-24 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Away,Banfield,1,1,False,,,False,Empate,False
+River Plate,2023,2023-10-01 14:00:00,2023-10-01 15:55:00,14:00,Copa de la Liga Profesional,Group stage,Away,Boca Juniors,2,0,False,,,False,Victoria,True
+River Plate,2023,2023-10-08 16:45:00,2023-10-08 18:40:00,16:45,Copa de la Liga Profesional,Group stage,Home,Talleres–C,1,0,False,,,False,Victoria,False
+River Plate,2023,2023-10-19 18:30:00,2023-10-19 20:25:00,18:30,Copa de la Liga Profesional,Group stage,Away,Colón,2,2,False,,,False,Empate,False
+River Plate,2023,2023-10-25 21:00:00,2023-10-25 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Independiente,3,0,False,,,False,Victoria,False
+River Plate,2023,2023-10-29 17:30:00,2023-10-29 19:25:00,17:30,Copa de la Liga Profesional,Group stage,Away,Gimnasia–LP,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-11-03 21:00:00,2023-11-03 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Huracán,1,2,False,,,False,Derrota,False
+River Plate,2023,2023-11-11 18:30:00,2023-11-11 20:25:00,18:30,Copa de la Liga Profesional,Group stage,Away,Rosario Central,1,3,False,,,False,Derrota,False
+River Plate,2023,2023-11-26 18:00:00,2023-11-26 19:55:00,18:00,Copa de la Liga Profesional,Group stage,Home,Instituto,0,0,False,,,False,Empate,False
+River Plate,2023,2023-12-03 18:30:00,2023-12-03 20:25:00,18:30,Copa de la Liga Profesional,Quarter-finals,Home,Belgrano,2,1,False,,,False,Victoria,False
+River Plate,2023,2023-12-09 22:00:00,2023-12-10 00:40:00,22:00,Copa de la Liga Profesional,Semi-finals,Home,Rosario Central,0,0,True,0,2,True,Derrota,False
+River Plate,2024,2024-01-28 19:00:00,2024-01-28 20:55:00,19:00,Copa de la Liga Profesional,Group stage,Home,Arg Juniors,1,1,False,,,False,Empate,False
+River Plate,2024,2024-01-31 21:30:00,2024-01-31 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Barracas Central,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-02-04 19:15:00,2024-02-04 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Home,Vélez Sarsfield,5,0,False,,,False,Victoria,False
+River Plate,2024,2024-02-11 17:00:00,2024-02-11 18:55:00,17:00,Copa de la Liga Profesional,Group stage,Away,Dep. Riestra,3,0,False,,,False,Victoria,False
+River Plate,2024,2024-02-14 21:30:00,2024-02-14 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Atlé Tucumán,0,0,False,,,False,Empate,False
+River Plate,2024,2024-02-18 19:15:00,2024-02-18 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Home,Banfield,1,1,False,,,False,Empate,False
+River Plate,2024,2024-02-25 17:00:00,2024-02-25 18:55:00,17:00,Copa de la Liga Profesional,Group stage,Home,Boca Juniors,1,1,False,,,False,Empate,True
+River Plate,2024,2024-03-02 21:30:00,2024-03-02 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Away,Talleres–C,2,2,False,,,False,Empate,False
+River Plate,2024,2024-03-06 21:30:00,2024-03-06 23:25:00,21:30,Copa de la Liga Profesional,Group stage,Home,Ind. Rivadavia,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-03-09 19:15:00,2024-03-09 21:10:00,19:15,Copa de la Liga Profesional,Group stage,Away,Independiente,1,1,False,,,False,Empate,False
+River Plate,2024,2024-03-17 18:30:00,2024-03-17 20:25:00,18:30,Copa de la Liga Profesional,Group stage,Home,Gimnasia–LP,3,1,False,,,False,Victoria,False
+River Plate,2024,2024-03-29 20:30:00,2024-03-29 22:25:00,20:30,Copa de la Liga Profesional,Group stage,Away,Huracán,0,1,False,,,False,Derrota,False
+River Plate,2024,2024-04-02 21:30:00,2024-04-02 23:25:00,21:30,Libertadores,Group stage,Away,Dep. Táchira,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-04-07 21:00:00,2024-04-07 22:55:00,21:00,Copa de la Liga Profesional,Group stage,Home,Rosario Central,2,1,False,,,False,Victoria,False
+River Plate,2024,2024-04-11 21:00:00,2024-04-11 22:55:00,21:00,Libertadores,Group stage,Home,Nacional,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-04-15 20:00:00,2024-04-15 21:55:00,20:00,Copa de la Liga Profesional,Group stage,Away,Instituto,3,1,False,,,False,Victoria,False
+River Plate,2024,2024-04-21 15:30:00,2024-04-21 17:25:00,15:30,Copa de la Liga Profesional,Quarter-finals,Home,Boca Juniors,2,3,False,,,False,Derrota,True
+River Plate,2024,2024-04-24 21:30:00,2024-04-24 23:25:00,21:30,Libertadores,Group stage,Away,Libertad,2,1,False,,,False,Victoria,False
+River Plate,2024,2024-05-07 21:00:00,2024-05-07 22:55:00,21:00,Libertadores,Group stage,Away,Nacional,2,2,False,,,False,Empate,False
+River Plate,2024,2024-05-11 19:45:00,2024-05-11 21:40:00,19:45,Liga Argentina,Matchweek 1,Home,C. Córdoba–SdE,3,0,False,,,False,Victoria,False
+River Plate,2024,2024-05-14 21:30:00,2024-05-14 23:25:00,21:30,Libertadores,Group stage,Home,Libertad,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-05-18 18:00:00,2024-05-18 19:55:00,18:00,Liga Argentina,Matchweek 2,Home,Belgrano,3,0,False,,,False,Victoria,False
+River Plate,2024,2024-05-25 15:00:00,2024-05-25 16:55:00,15:00,Liga Argentina,Matchweek 3,Away,Arg Juniors,0,1,False,,,False,Derrota,False
+River Plate,2024,2024-05-30 21:00:00,2024-05-30 22:55:00,21:00,Libertadores,Group stage,Home,Dep. Táchira,2,0,False,,,False,Victoria,False
+River Plate,2024,2024-06-02 20:15:00,2024-06-02 22:10:00,20:15,Liga Argentina,Matchweek 4,Home,Tigre,3,1,False,,,False,Victoria,False
+River Plate,2024,2024-06-13 15:00:00,2024-06-13 16:55:00,15:00,Liga Argentina,Matchweek 5,Away,Dep. Riestra,0,2,False,,,False,Derrota,False
+River Plate,2024,2024-07-21 15:00:00,2024-07-21 16:55:00,15:00,Liga Argentina,Matchweek 6,Home,Lanús,2,2,False,,,False,Empate,False
+River Plate,2024,2024-07-24 19:30:00,2024-07-24 21:25:00,19:30,Liga Argentina,Matchweek 7,Away,Godoy Cruz,1,2,False,,,False,Derrota,False
+River Plate,2024,2024-07-28 18:30:00,2024-07-28 20:25:00,18:30,Liga Argentina,Matchweek 8,Home,Sarmiento–J,1,0,False,,,False,Victoria,False
+River Plate,2024,2024-08-04 15:00:00,2024-08-04 16:55:00,15:00,Liga Argentina,Matchweek 9,Away,Unión,0,0,False,,,False,Empate,False
+River Plate,2024,2024-08-10 20:30:00,2024-08-10 22:25:00,20:30,Liga Argentina,Matchweek 10,Home,Huracán,1,1,False,,,False,Empate,False
+River Plate,2024,2024-08-14 21:30:00,2024-08-14 23:25:00,21:30,Libertadores,Round of 16,Away,Talleres–C,1,0,False,,,False,Victoria,False
+River Plate,2024,2024-08-17 17:30:00,2024-08-17 19:25:00,17:30,Liga Argentina,Matchweek 11,Away,Gimnasia–LP,1,1,False,,,False,Empate,False
+River Plate,2024,2024-08-21 21:30:00,2024-08-21 23:25:00,21:30,Libertadores,Round of 16,Home,Talleres–C,2,1,False,,,False,Victoria,False
+River Plate,2024,2024-08-25 20:30:00,2024-08-25 22:25:00,20:30,Liga Argentina,Matchweek 12,Home,Newell's,0,0,False,,,False,Empate,False
+River Plate,2024,2024-09-01 17:00:00,2024-09-01 18:55:00,17:00,Liga Argentina,Matchweek 13,Away,Independiente,0,0,False,,,False,Empate,False
+River Plate,2024,2024-09-13 21:00:00,2024-09-13 22:55:00,21:00,Liga Argentina,Matchweek 14,Home,Atlé Tucumán,4,1,False,,,False,Victoria,False
+River Plate,2024,2024-09-17 21:30:00,2024-09-17 23:25:00,21:30,Libertadores,Quarter-finals,Away,Colo-Colo,1,1,False,,,False,Empate,False
+River Plate,2024,2024-09-21 16:00:00,2024-09-21 17:55:00,16:00,Liga Argentina,Matchweek 15,Away,Boca Juniors,1,0,False,,,False,Victoria,True
+River Plate,2024,2024-09-24 21:30:00,2024-09-24 23:25:00,21:30,Libertadores,Quarter-finals,Home,Colo-Colo,1,0,False,,,False,Victoria,False
+River Plate,2024,2024-09-29 18:15:00,2024-09-29 20:10:00,18:15,Liga Argentina,Matchweek 16,Home,Talleres–C,0,1,False,,,False,Derrota,False
+River Plate,2024,2024-10-06 19:00:00,2024-10-06 20:55:00,19:00,Liga Argentina,Matchweek 17,Away,Platense,0,0,False,,,False,Empate,False
+River Plate,2024,2024-10-18 21:00:00,2024-10-18 22:55:00,21:00,Liga Argentina,Matchweek 18,Home,Vélez Sarsfield,1,1,False,,,False,Empate,False
+River Plate,2024,2024-10-22 21:30:00,2024-10-22 23:25:00,21:30,Libertadores,Semi-finals,Away,Atlético Mineiro,0,3,False,,,False,Derrota,False
+River Plate,2024,2024-10-25 21:00:00,2024-10-25 22:55:00,21:00,Liga Argentina,Matchweek 19,Away,Defensa,0,0,False,,,False,Empate,False
+River Plate,2024,2024-10-29 21:30:00,2024-10-29 23:25:00,21:30,Libertadores,Semi-finals,Home,Atlético Mineiro,0,0,False,,,False,Empate,False
+River Plate,2024,2024-11-02 18:00:00,2024-11-02 19:55:00,18:00,Liga Argentina,Matchweek 20,Home,Banfield,3,1,False,,,False,Victoria,False
+River Plate,2024,2024-11-06 21:30:00,2024-11-06 23:25:00,21:30,Liga Argentina,Matchweek 21,Away,Instituto,3,2,False,,,False,Victoria,False
+River Plate,2024,2024-11-10 17:15:00,2024-11-10 19:10:00,17:15,Liga Argentina,Matchweek 22,Home,Barracas Central,3,0,False,,,False,Victoria,False
+River Plate,2024,2024-11-21 21:30:00,2024-11-21 23:25:00,21:30,Liga Argentina,Matchweek 23,Away,Ind. Rivadavia,1,2,False,,,False,Derrota,False
+River Plate,2024,2024-11-29 21:00:00,2024-11-29 22:55:00,21:00,Liga Argentina,Matchweek 25,Away,Estudiantes–LP,2,1,False,,,False,Victoria,False
+River Plate,2024,2024-12-04 21:00:00,2024-12-04 22:55:00,21:00,Liga Argentina,Matchweek 24,Home,CA San Lorenzo,1,1,False,,,False,Empate,False
+River Plate,2024,2024-12-08 19:15:00,2024-12-08 21:10:00,19:15,Liga Argentina,Matchweek 26,Home,Rosario Central,4,0,False,,,False,Victoria,False
+River Plate,2024,2024-12-14 21:15:00,2024-12-14 23:10:00,21:15,Liga Argentina,Matchweek 27,Away,Racing Club,0,1,False,,,False,Derrota,False
+River Plate,2025,2025-01-25 21:30:00,2025-01-25 23:25:00,21:30,Liga Argentina,Torneo Apertura — Regular season,Away,Platense,1,1,False,,,False,Empate,False
+River Plate,2025,2025-01-29 21:30:00,2025-01-29 23:25:00,21:30,Liga Argentina,Torneo Apertura — Regular season,Home,Instituto,1,0,False,,,False,Victoria,False
+River Plate,2025,2025-02-02 17:00:00,2025-02-02 18:55:00,17:00,Liga Argentina,Torneo Apertura — Regular season,Away,CA San Lorenzo,0,0,False,,,False,Empate,False
+River Plate,2025,2025-02-08 20:15:00,2025-02-08 22:10:00,20:15,Liga Argentina,Torneo Apertura — Regular season,Home,Independiente,2,0,False,,,False,Victoria,False
+River Plate,2025,2025-02-12 22:15:00,2025-02-13 00:10:00,22:15,Liga Argentina,Torneo Apertura — Regular season,Away,Godoy Cruz,0,0,False,,,False,Empate,False
+River Plate,2025,2025-02-16 19:15:00,2025-02-16 21:10:00,19:15,Liga Argentina,Torneo Apertura — Regular season,Home,Lanús,1,0,False,,,False,Victoria,False
+River Plate,2025,2025-02-22 21:30:00,2025-02-22 23:25:00,21:30,Liga Argentina,Torneo Apertura — Regular season,Away,San Martín–SJ,2,0,False,,,False,Victoria,False
+River Plate,2025,2025-03-01 19:15:00,2025-03-01 21:10:00,19:15,Liga Argentina,Torneo Apertura — Regular season,Home,Estudiantes–LP,0,2,False,,,False,Derrota,False
+River Plate,2025,2025-03-09 19:15:00,2025-03-09 21:10:00,19:15,Liga Argentina,Torneo Apertura — Regular season,Home,Atlé Tucumán,1,0,False,,,False,Victoria,False
+River Plate,2025,2025-03-15 16:00:00,2025-03-15 17:55:00,16:00,Liga Argentina,Torneo Apertura — Regular season,Away,Dep. Riestra,0,0,False,,,False,Empate,False
+River Plate,2025,2025-03-29 21:00:00,2025-03-29 22:55:00,21:00,Liga Argentina,Torneo Apertura — Regular season,Home,Rosario Central,2,2,False,,,False,Empate,False
+River Plate,2025,2025-04-02 21:30:00,2025-04-02 23:25:00,21:30,Libertadores,Group stage,Away,Universitario,1,0,False,,,False,Victoria,False
+River Plate,2025,2025-04-05 20:30:00,2025-04-05 22:25:00,20:30,Liga Argentina,Torneo Apertura — Regular season,Away,Sarmiento–J,1,1,False,,,False,Empate,False
+River Plate,2025,2025-04-08 21:30:00,2025-04-08 23:25:00,21:30,Libertadores,Group stage,Home,Barcelona,0,0,False,,,False,Empate,False
+River Plate,2025,2025-04-13 20:15:00,2025-04-13 22:10:00,20:15,Liga Argentina,Torneo Apertura — Regular season,Home,Talleres–C,1,1,False,,,False,Empate,False
+River Plate,2025,2025-04-18 17:00:00,2025-04-18 18:55:00,17:00,Liga Argentina,Torneo Apertura — Regular season,Away,Gimnasia–LP,3,0,False,,,False,Victoria,False
+River Plate,2025,2025-04-23 21:30:00,2025-04-23 23:25:00,21:30,Libertadores,Group stage,Away,Independiente,2,2,False,,,False,Empate,False
+River Plate,2025,2025-04-27 15:30:00,2025-04-27 17:25:00,15:30,Liga Argentina,Torneo Apertura — Regular season,Home,Boca Juniors,2,1,False,,,False,Victoria,True
+River Plate,2025,2025-05-04 20:30:00,2025-05-04 22:25:00,20:30,Liga Argentina,Torneo Apertura — Regular season,Home,Vélez Sarsfield,4,1,False,,,False,Victoria,False
+River Plate,2025,2025-05-08 21:30:00,2025-05-08 23:25:00,21:30,Libertadores,Group stage,Away,Barcelona,3,2,False,,,False,Victoria,False
+River Plate,2025,2025-05-12 20:30:00,2025-05-12 22:25:00,20:30,Liga Argentina,Torneo Apertura — Round of 16,Home,Barracas Central,3,0,False,,,False,Victoria,False
+River Plate,2025,2025-05-15 21:30:00,2025-05-15 23:25:00,21:30,Libertadores,Group stage,Home,Independiente,6,2,False,,,False,Victoria,False
+River Plate,2025,2025-05-20 20:30:00,2025-05-20 23:10:00,20:30,Liga Argentina,Torneo Apertura — Quarter-finals,Home,Platense,1,1,True,2,4,True,Derrota,False
+River Plate,2025,2025-05-27 21:30:00,2025-05-27 23:25:00,21:30,Libertadores,Group stage,Home,Universitario,1,1,False,,,False,Empate,False
+River Plate,2025,2025-06-17 16:00:00,2025-06-17 17:55:00,16:00,Club World Cup,Group stage,Neutral,Urawa Reds,3,1,False,,,False,Victoria,False
+River Plate,2025,2025-06-21 22:00:00,2025-06-21 23:55:00,22:00,Club World Cup,Group stage,Neutral,Monterrey,0,0,False,,,False,Empate,False
+River Plate,2025,2025-06-25 22:00:00,2025-06-25 23:55:00,22:00,Club World Cup,Group stage,Neutral,Inter,0,2,False,,,False,Derrota,False
+River Plate,2025,2025-07-13 21:00:00,2025-07-13 22:55:00,21:00,Liga Argentina,Torneo Clausura — Regular season,Home,Platense,3,1,False,,,False,Victoria,False
+River Plate,2025,2025-07-19 21:00:00,2025-07-19 22:55:00,21:00,Liga Argentina,Torneo Clausura — Regular season,Away,Instituto,4,0,False,,,False,Victoria,False
+River Plate,2025,2025-07-27 20:30:00,2025-07-27 22:25:00,20:30,Liga Argentina,Torneo Clausura — Regular season,Home,CA San Lorenzo,0,0,False,,,False,Empate,False
+River Plate,2025,2025-08-09 18:30:00,2025-08-09 20:25:00,18:30,Liga Argentina,Torneo Clausura — Regular season,Away,Independiente,0,0,False,,,False,Empate,False
+River Plate,2025,2025-08-14 21:30:00,2025-08-14 23:25:00,21:30,Libertadores,Round of 16,Away,Libertad,0,0,False,,,False,Empate,False
+River Plate,2025,2025-08-17 18:30:00,2025-08-17 20:25:00,18:30,Liga Argentina,Torneo Clausura — Regular season,Home,Godoy Cruz,4,2,False,,,False,Victoria,False
+River Plate,2025,2025-08-21 21:30:00,2025-08-22 00:10:00,21:30,Libertadores,Round of 16,Home,Libertad,1,1,True,3,1,True,Victoria,False
+River Plate,2025,2025-08-25 21:15:00,2025-08-25 23:10:00,21:15,Liga Argentina,Torneo Clausura — Regular season,Away,Lanús,1,1,False,,,False,Empate,False
+River Plate,2025,2025-08-31 19:15:00,2025-08-31 21:10:00,19:15,Liga Argentina,Torneo Clausura — Regular season,Home,San Martín–SJ,2,0,False,,,False,Victoria,False
+River Plate,2025,2025-09-13 19:00:00,2025-09-13 20:55:00,19:00,Liga Argentina,Torneo Clausura — Regular season,Away,Estudiantes–LP,2,1,False,,,False,Victoria,False
+River Plate,2025,2025-09-17 21:30:00,2025-09-17 23:25:00,21:30,Libertadores,Quarter-finals,Home,Palmeiras,1,2,False,,,False,Derrota,False
+River Plate,2025,2025-09-20 21:15:00,2025-09-20 23:10:00,21:15,Liga Argentina,Torneo Clausura — Regular season,Away,Atlé Tucumán,0,2,False,,,False,Derrota,False
+River Plate,2025,2025-09-24 21:30:00,2025-09-24 23:25:00,21:30,Libertadores,Quarter-finals,Away,Palmeiras,1,3,False,,,False,Derrota,False
+River Plate,2025,2025-09-28 18:00:00,2025-09-28 19:55:00,18:00,Liga Argentina,Torneo Clausura — Regular season,Home,Dep. Riestra,1,2,False,,,False,Derrota,False
+River Plate,2025,2025-10-05 21:15:00,2025-10-05 23:10:00,21:15,Liga Argentina,Torneo Clausura — Regular season,Away,Rosario Central,1,2,False,,,False,Derrota,False
+River Plate,2025,2025-10-12 19:15:00,2025-10-12 21:10:00,19:15,Liga Argentina,Torneo Clausura — Regular season,Home,Sarmiento–J,0,1,False,,,False,Derrota,False
+River Plate,2025,2025-10-18 20:30:00,2025-10-18 22:25:00,20:30,Liga Argentina,Torneo Clausura — Regular season,Away,Talleres–C,2,0,False,,,False,Victoria,False
+River Plate,2025,2025-11-02 20:30:00,2025-11-02 22:25:00,20:30,Liga Argentina,Torneo Clausura — Regular season,Home,Gimnasia–LP,0,1,False,,,False,Derrota,False
+River Plate,2025,2025-11-09 16:30:00,2025-11-09 18:25:00,16:30,Liga Argentina,Torneo Clausura — Regular season,Away,Boca Juniors,0,2,False,,,False,Derrota,True
+River Plate,2025,2025-11-16 17:00:00,2025-11-16 18:55:00,17:00,Liga Argentina,Torneo Clausura — Regular season,Away,Vélez Sarsfield,0,0,False,,,False,Empate,False
+River Plate,2025,2025-11-24 19:15:00,2025-11-24 21:10:00,19:15,Liga Argentina,Torneo Clausura — Round of 16,Away,Racing Club,2,3,False,,,False,Derrota,False
