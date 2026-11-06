@@ -1,18 +1,31 @@
-# siniestros-futbol-caba
+# ¿Las derrotas chocan? Siniestros viales y fútbol en CABA (2021–2025)
 
-Se realiza para el trabajo práctico de la materia [Laboratorio de Métodos Cuantitativos Aplicados a la Gestión](https://github.com/Datso653/Laboratorio-de-metodos-Cuantitativos-Aplicados-a-la-gestion) (FCE-UBA) un análisis de datos en grupo con el objetivo de responder a la siguiente pregunta:
+Análisis de datos grupal hecho para el trabajo práctico de la materia [Laboratorio de Métodos Cuantitativos Aplicados a la Gestión](https://github.com/Datso653/Laboratorio-de-metodos-Cuantitativos-Aplicados-a-la-gestion) (FCE-UBA). Busca responder esta pregunta:
 
 *¿Se registra un aumento significativo de siniestros viales en la Ciudad de Buenos Aires durante las 12 horas posteriores a la derrota de los equipos más populares de fútbol?*
 
 Se consideran todos los partidos de la Selección Argentina (oficiales y amistosos), River Plate y Boca Juniors entre 2021 y 2025 inclusive (568 partidos), junto con todos los siniestros viales registrados por el Gobierno de la Ciudad de Buenos Aires en los mismos años (49.602 siniestros).
 
-**Respuesta corta:** no. Tras una derrota, los siniestros en las 12 horas siguientes se mantienen en el nivel esperado para ese horario, día de la semana y año (ratio 0,99), y ninguna prueba estadística detecta un aumento significativo.
+**Respuesta corta:** no. Tras una derrota, los siniestros de las 12 horas siguientes se mantienen en el nivel esperado para ese horario, día de la semana y año (ratio 0,99), y ninguna prueba estadística detecta un aumento significativo (Wilcoxon p = 0,72; Mann-Whitney p = 0,79; quasi-Poisson p = 0,34). El mayor exceso del período se dio tras una victoria: la final del Mundial 2022, con casi el doble de lo esperado.
 
-## El trabajo incluye
+## Integrantes
 
-- Análisis realizado en Python (Google Colab), en la carpeta `notebook/`
-- Informe académico, en la carpeta `informe/`
-- Presentación, en la carpeta `presentacion/`
+| Nombre | Usuario de GitHub |
+|---|---|
+| Franco Rodríguez | [fran12kayg-lgtm](https://github.com/fran12kayg-lgtm) |
+| Luca Piekar | [luca-fce](https://github.com/luca-fce) |
+| Santino De Luchi | [santinodeluchisiglo-rgb](https://github.com/santinodeluchisiglo-rgb) |
+| Santiago García Cautogno | [Santygc1203](https://github.com/Santygc1203) |
+
+## Entregables
+
+| Parte | Entregable | Ubicación |
+|---|---|---|
+| 1 | Análisis en Python (Google Colab, `.ipynb` ejecutados) | [`notebook/`](notebook/) |
+| 2 | Informe académico en PDF | [`informe/Informe_TP_Siniestros_Futbol_CABA.pdf`](informe/Informe_TP_Siniestros_Futbol_CABA.pdf) |
+| 3 | Presentación | [`presentacion/`](presentacion/) |
+
+Consigna del trabajo: [`informe/pautas/TRABAJO PRACTICO.pdf`](informe/pautas/TRABAJO%20PRACTICO.pdf)
 
 ## Notebooks (ejecutar en este orden)
 
@@ -22,8 +35,8 @@ Cada notebook corresponde a un punto de la consigna y tiene el botón *Open in C
 |---|---|---|
 | [`3_1_carga_y_exploracion.ipynb`](notebook/3_1_carga_y_exploracion.ipynb) | 3.1 | Carga las tres bases originales y explora su estructura, cobertura y calidad |
 | [`3_2_pregunta_de_investigacion.ipynb`](notebook/3_2_pregunta_de_investigacion.ipynb) | 3.2 | Pregunta, motivación, hipótesis y respuesta encontrada |
-| [`3_3_transformaciones_y_resumen.ipynb`](notebook/3_3_transformaciones_y_resumen.ipynb) | 3.3 | Limpieza de las tres bases, cruce partidos × siniestros, resúmenes con `groupby`, pruebas de significación y robustez |
-| [`3_4_analisis_grafico.ipynb`](notebook/3_4_analisis_grafico.ipynb) | 3.4 | Cuatro gráficos con su interpretación, exportados a `informe/figuras/` |
+| [`3_3_transformaciones_y_resumen.ipynb`](notebook/3_3_transformaciones_y_resumen.ipynb) | 3.3 | Limpieza de las tres bases, cruce de partidos y siniestros, resúmenes con `groupby`, pruebas de significación y robustez |
+| [`3_4_analisis_grafico.ipynb`](notebook/3_4_analisis_grafico.ipynb) | 3.4 | Cuatro gráficos con su interpretación, exportados a [`informe/figuras/`](informe/figuras/) |
 
 ## Datos
 
@@ -44,4 +57,4 @@ Archivos generados por el notebook 3.3 (en `datos/`):
 
 ## Uso de IA
 
-El análisis se desarrolló con asistencia de Claude (Anthropic). Cada notebook indica el prompt utilizado. La interpretación de los resultados y las decisiones metodológicas fueron revisadas por el grupo.
+El análisis y el informe se hicieron con asistencia de Claude (Anthropic). Cada notebook indica qué celdas tuvieron asistencia y el prompt utilizado. Las decisiones metodológicas y la interpretación de los resultados fueron del grupo, y todas las cifras se verificaron contra los notebooks y los datos originales.
