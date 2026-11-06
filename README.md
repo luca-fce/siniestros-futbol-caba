@@ -6,7 +6,7 @@ Análisis de datos grupal hecho para el trabajo práctico de la materia [Laborat
 
 Se consideran todos los partidos de la Selección Argentina (oficiales y amistosos), River Plate y Boca Juniors entre 2021 y 2025 inclusive (568 partidos), junto con todos los siniestros viales registrados por el Gobierno de la Ciudad de Buenos Aires en los mismos años (49.602 siniestros).
 
-**Respuesta corta:** no. Tras una derrota, los siniestros de las 12 horas siguientes se mantienen en el nivel esperado para ese horario, día de la semana y año (ratio 0,99), y ninguna prueba estadística detecta un aumento significativo (Wilcoxon p = 0,72; Mann-Whitney p = 0,79; quasi-Poisson p = 0,34). El mayor exceso del período se dio tras una victoria: la final del Mundial 2022, con casi el doble de lo esperado.
+**Respuesta corta:** no. Tras una derrota, los siniestros de las 12 horas siguientes se mantienen en el nivel esperado para ese horario, día de la semana y año (ratio 0,99), y ninguna prueba estadística detecta un aumento significativo (Wilcoxon p = 0,72; Mann-Whitney p = 0,79; quasi-Poisson p = 0,34). Los seis partidos con mayor exceso de siniestros del período fueron todos victorias, entre ellos la final del Mundial 2022, con casi el doble de lo esperado.
 
 ## Integrantes
 
