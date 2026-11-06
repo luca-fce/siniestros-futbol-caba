@@ -235,7 +235,7 @@ b, strong { font-weight: 700; }
 .frase span { color: var(--terracota); }
 .btn-preg { display: inline-flex; gap: 10px; align-items: center; background: var(--azul); color: var(--papel-claro); border: var(--borde); border-radius: 12px; padding: 11px 20px; font: 700 16px var(--sans); text-decoration: none; float: right; box-shadow: 4px 4px 0 var(--tinta); }
 
-/* ---------- Barra inferior y notas ---------- */
+/* ---------- Barra inferior ---------- */
 #barra { position: fixed; left: 0; right: 0; bottom: 0; height: 48px; z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 16px; background: var(--papel-claro); border-top: 2px solid var(--tinta); font-size: 13px; }
 #progreso { position: fixed; left: 0; top: 0; height: 5px; background: var(--terracota); z-index: 6; transition: width .45s var(--ease); }
 .b-izq { color: var(--tinta-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: flex; gap: 10px; align-items: center; }
@@ -248,9 +248,6 @@ b, strong { font-weight: 700; }
 .circ:disabled { opacity: .35; cursor: default; }
 .b-btn { background: var(--tinta); color: var(--papel-claro); border: 0; border-radius: 9px; padding: .55em 1em; font: 700 12.5px var(--sans); white-space: nowrap; }
 .b-btn.claro { background: var(--blanco); color: var(--tinta); box-shadow: inset 0 0 0 1.5px var(--tinta); }
-#notas { position: fixed; left: 16px; right: 16px; bottom: 60px; z-index: 7; background: var(--tinta); color: var(--papel-claro); border-radius: 14px; padding: 16px 20px; font-size: 15px; line-height: 1.55; max-height: 42vh; overflow: auto; display: none; box-shadow: 0 10px 40px rgba(0,0,0,.3); }
-#notas.on { display: block; }
-#notas .quien { font: 700 12px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--mostaza); display: block; margin-bottom: 6px; }
 
 /* ---------- Pantallas angostas ---------- */
 body.angosto { overflow: auto; }
@@ -301,8 +298,7 @@ body.angosto { overflow: auto; }
 <div id="escenario"><div id="lienzo" role="region" aria-roledescription="presentación" aria-label="¿Las derrotas chocan?">
 
 <!-- ═══════ 1 · PORTADA · Franco ═══════ -->
-<section class="diapo portada" data-titulo="Portada" data-quien="Franco Rodríguez · 0:00–0:30"
-  data-notas="Presentarse. “Buenas, somos Franco, Luca, Santino y Santiago. Nuestro trabajo se llama ‘¿Las derrotas chocan?’. La idea surgió de algo que mucha gente sospecha: que cuando pierde tu equipo, la gente sale enojada y maneja peor. Quisimos ver si eso aparece en los datos de siniestros viales de la Ciudad.” Pasar enseguida a la pregunta.">
+<section class="diapo portada" data-titulo="Portada">
   <span class="carril" style="left:1010px;top:-20px;height:760px" aria-hidden="true"></span>
   <span class="mancha flota" style="left:1060px;top:70px;width:160px;height:160px;background-color:var(--azul-suave)"></span>
   <svg class="motivo gira" style="left:940px;top:230px;width:150px;height:150px" aria-hidden="true"><use href="#pelota"/></svg>
@@ -319,8 +315,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 2 · LA PREGUNTA · Franco ═══════ -->
-<section class="diapo" data-titulo="La pregunta" data-quien="Franco Rodríguez · 0:30–1:30"
-  data-notas="“La pregunta es concreta: ¿hay más choques en las 12 horas que siguen a una derrota de River, Boca o la Selección? Antes de mostrarles los datos, ¿ustedes qué creen?” Pedir que voten a mano alzada (10 segundos) y tocar la opción más votada. “¿Por qué importa? Hay estudios que muestran que las derrotas inesperadas aumentan conductas impulsivas, como la violencia doméstica. Si pasara al volante, serviría para planificar controles de tránsito. La respuesta la vamos a ver en un ratito.” NO revelar acá: le paso la palabra a Luca.">
+<section class="diapo" data-titulo="La pregunta">
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">01</span>La pregunta</span></div>
   <h2 class="titulo e" style="--i:1">¿Hay más choques después de que <em>pierde tu equipo?</em></h2>
   <div class="cuerpo">
@@ -346,8 +341,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 3 · LOS DATOS · Luca ═══════ -->
-<section class="diapo" data-titulo="Los datos" data-quien="Luca Piekar · 1:30–2:30"
-  data-notas="“Para responder cruzamos tres bases. Los siniestros viales que registra el Gobierno de la Ciudad: casi 50 mil entre 2021 y 2025. Los partidos de River y Boca, de FBref, y los de la Selección, de una base de Kaggle, con los horarios que cargamos desde Wikipedia. En total, 568 partidos: cada puntito de la cancha es uno. Los rojos son las 127 derrotas. Fíjense en un detalle: la Selección perdió solo 5 partidos en cinco años; Santino lo va a retomar.”">
+<section class="diapo" data-titulo="Los datos">
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">02</span>Los datos</span></div>
   <h2 class="titulo e" style="--i:1">Tres números para <em>dimensionar</em> el estudio</h2>
   <div class="cuerpo">
@@ -365,8 +359,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 4 · EL MÉTODO · Luca ═══════ -->
-<section class="diapo" data-titulo="El método" data-quien="Luca Piekar · 2:30–3:45"
-  data-notas="“A la izquierda, los cuatro pasos. Limpiamos los datos: había faltantes escritos como SD o como errores de Excel. Pusimos todo en hora argentina; a la Selección le cargamos a mano los horarios, porque la base no los tenía. Clasificamos cada partido; quedar eliminado por penales cuenta como derrota. Y el paso clave es comparar.” (→) “El observado: los choques en las 12 horas después del partido. Las barras son el promedio real tras las 127 derrotas.” (→) “El esperado: lo que pasa normalmente en esas mismas horas, el mismo día de la semana y el mismo año, sin partido: la línea punteada.” (→) “Dividimos uno por el otro: 1 es lo normal; 1,10 sería 10 % más y 0,90, 10 % menos.” Pasarle la palabra a Santino.">
+<section class="diapo" data-titulo="El método">
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">03</span>El método</span></div>
   <h2 class="titulo e" style="--i:1">Comparamos cada partido con <em>su propio normal</em></h2>
   <div class="metodo">
@@ -388,8 +381,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 5 · EL RESULTADO · Santino ═══════ -->
-<section class="diapo oscura" data-titulo="El resultado" data-quien="Santino De Luchi · 3:45–4:45"
-  data-notas="“Y este es el resultado: 0,99. Después de una derrota hubo en promedio 8,07 choques en las 12 horas siguientes, cuando lo esperado era 8,12. Son promedios de los 127 partidos perdidos, no de un partido. Las dos barras son prácticamente iguales.” (→) “O sea: la respuesta a la encuesta era la B, hay los mismos.” “Abajo comparamos los tres resultados: tras perder, 0,99; tras empatar, 1,01; tras ganar, 1,04. Los tres están pegados al 1.” Decir ‘no encontramos un aumento’, no ‘demostramos que no hay efecto’.">
+<section class="diapo oscura" data-titulo="El resultado">
   <svg class="motivo gira" style="left:1100px;top:520px;width:110px;height:110px;opacity:.9" aria-hidden="true"><use href="#pelota"/></svg>
   <div class="sello-voto" data-paso="1"><span>Respuesta: B</span>Hay los mismos</div>
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">04</span>El resultado</span></div>
@@ -412,8 +404,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 6 · ¿SE SOSTIENE? · Santino ═══════ -->
-<section class="diapo" data-titulo="¿Se sostiene?" data-quien="Santino De Luchi · 4:45–5:45"
-  data-notas="“¿Se sostiene si separamos por equipo? Cada puntito es una derrota. Boca perdió 65 veces y River 57: en los dos casos, tras perder hubo incluso un poco menos de choques, y el intervalo incluye el 1. La Selección marca +19,5 %, pero son solo cinco derrotas: el intervalo va de 0,8 a 1,6, así que no permite sacar conclusiones.” (→) “Y para descartar la casualidad hicimos tres pruebas estadísticas y repetimos el análisis con seis variantes distintas. Ninguna detecta un aumento significativo. Ojo: no significativo no es lo mismo que cero, pero un aumento grande es poco compatible con los datos.” Pasarle la palabra a Santiago.">
+<section class="diapo" data-titulo="¿Se sostiene?">
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">05</span>¿Se sostiene?</span></div>
   <h2 class="titulo e" style="--i:1">Por equipo y con otras pruebas, <em>tampoco aparece</em></h2>
   <div class="cuerpo">
@@ -429,8 +420,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 7 · EL DATO INESPERADO · Santiago ═══════ -->
-<section class="diapo" data-titulo="El dato inesperado" data-quien="Santiago García Cautogno · 5:45–6:45"
-  data-notas="“Un dato que nos sorprendió. El 18 de diciembre de 2022, el día de la final del Mundial, hubo 19 siniestros en las 12 horas siguientes, cuando lo esperado era 9,7: casi el doble. Cada autito es un siniestro. ¿Fue el día con más choques de más de todo el período?” (→) “No: fue el sexto de 568. Y los seis mayores excesos fueron todos después de victorias, no de derrotas. Coinciden con festejos masivos, pero es una observación: no podemos decir que los festejos causaron los choques.”">
+<section class="diapo" data-titulo="El dato inesperado">
   <svg class="motivo flota" style="left:1150px;top:96px;width:50px;height:66px" aria-hidden="true"><use href="#cono"/></svg>
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">06</span>El dato inesperado</span></div>
   <h2 class="titulo e" style="--i:1">Final del Mundial 2022: <em>casi el doble</em></h2>
@@ -461,8 +451,7 @@ body.angosto { overflow: auto; }
 </section>
 
 <!-- ═══════ 8 · CONCLUSIÓN · Santiago ═══════ -->
-<section class="diapo" data-titulo="Conclusión" data-quien="Santiago García Cautogno · 6:45–7:30"
-  data-notas="“Para cerrar: con 568 partidos y casi 50 mil siniestros, no encontramos evidencia de que perder aumente los choques en la Ciudad. Tras una derrota quedan en su nivel habitual; lo que más pesa es la hora y el día; y se sostiene en las seis variantes. Tiene límites: solo se registran siniestros con víctimas, no sabemos si quien chocó vio el partido, la hora de fin es estimada y la Selección perdió muy pocas veces. Perder duele… pero, con estos datos, no choca. ¿Preguntas?” — PREGUNTAS PROBABLES (responde quien hizo esa parte): ¿Por qué no comparar antes y después? Porque los choques dependen de la hora; comparamos contra las mismas horas sin partido (Luca). ¿Qué es el 0,99? Observado ÷ esperado: 8,07 contra 8,12 (Santino). ¿No significativo es cero? No: no hay evidencia de aumento; el intervalo va de −11,8 % a +4,4 % (Santino). ¿Por qué 12 horas? Cubre la noche y la mañana; con 3 y 6 h da igual (Luca). ¿Cómo saben cuándo terminó? Inicio + 1 h 55 min, más alargue y penales (Luca). ¿Y el Mundial? Sexto mayor exceso; observación, no causalidad (Santiago). ¿Cómo usaron la IA? Código, horarios y redacción; verificamos todo contra los datos (Franco).">
+<section class="diapo" data-titulo="Conclusión">
   <span class="mancha flota" style="left:1150px;top:40px;width:80px;height:80px;background-color:var(--azul-suave)"></span>
   <div class="cabeza e" style="--i:0"><span class="parte"><span class="nro">07</span>Conclusión</span></div>
   <div class="cuerpo">
@@ -485,7 +474,7 @@ body.angosto { overflow: auto; }
 
 </div></div>
 
-<div id="notas" role="note" aria-live="polite"></div>
+
 <nav id="barra" aria-label="Navegación">
   <div class="b-izq" id="b-izq"></div>
   <div class="b-der">
@@ -493,7 +482,6 @@ body.angosto { overflow: auto; }
     <button class="circ" id="ant" aria-label="Anterior">←</button>
     <span id="contador"></span>
     <button class="circ" id="sig" aria-label="Siguiente">→</button>
-    <button class="b-btn claro" id="btn-notas" title="Notas del orador (N)">Notas</button>
     <button class="b-btn" id="btn-full" title="Pantalla completa (F)">⛶ Pantalla completa</button>
   </div>
 </nav>
@@ -671,7 +659,7 @@ body.angosto { overflow: auto; }
   function pista() {
     var d = diapos[actual]; if (!d) { return; }
     var p = pendiente(d), e = $('#pista');
-    e.textContent = p ? (p.tipo === 'respuesta' ? '→ revela la respuesta' : '→ siguiente paso') : (actual === 0 ? '→ para avanzar · N notas · F pantalla completa' : '');
+    e.textContent = p ? (p.tipo === 'respuesta' ? '→ revela la respuesta' : '→ siguiente paso') : (actual === 0 ? '→ para avanzar · F pantalla completa' : '');
     e.classList.toggle('on', !!e.textContent);
     $('#sig').disabled = actual === diapos.length - 1 && !p;
   }
@@ -687,7 +675,6 @@ body.angosto { overflow: auto; }
     $('#b-izq').innerHTML = '<b>¿Las derrotas chocan?</b> · ' + d.getAttribute('data-titulo') + '';
     $('#progreso').style.width = ((i + 1) / diapos.length * 100) + '%';
     $('#ant').disabled = i === 0;
-    $('#notas').innerHTML = '<span class="quien">' + d.getAttribute('data-quien') + '</span>' + d.getAttribute('data-notas');
     if (history.replaceState) { history.replaceState(null, '', '#' + (i + 1)); }
     pista();
   }
@@ -712,10 +699,9 @@ body.angosto { overflow: auto; }
     if (k === 'ArrowRight' || k === 'PageDown' || k === ' ' || (k === 'Enter' && e.target.tagName !== 'BUTTON')) { e.preventDefault(); siguiente(); }
     else if (k === 'ArrowLeft' || k === 'PageUp' || k === 'Backspace') { e.preventDefault(); anterior(); }
     else if (k === 'Home') { ir(0, true); } else if (k === 'End') { ir(diapos.length - 1); }
-    else if (k === 'f' || k === 'F') { completa(); } else if (k === 'n' || k === 'N') { $('#notas').classList.toggle('on'); }
+    else if (k === 'f' || k === 'F') { completa(); }
   });
   $('#sig').addEventListener('click', siguiente); $('#ant').addEventListener('click', anterior);
-  $('#btn-notas').addEventListener('click', function () { $('#notas').classList.toggle('on'); });
   function completa() { if (!document.fullscreenElement) { if (document.documentElement.requestFullscreen) { document.documentElement.requestFullscreen(); } } else { document.exitFullscreen(); } }
   $('#btn-full').addEventListener('click', completa);
   document.addEventListener('fullscreenchange', function () { $('#btn-full').textContent = document.fullscreenElement ? '⛶ Salir' : '⛶ Pantalla completa'; setTimeout(escalar, 60); });
