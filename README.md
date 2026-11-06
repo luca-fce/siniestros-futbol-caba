@@ -23,7 +23,7 @@ Se consideran todos los partidos de la Selección Argentina (oficiales y amistos
 |---|---|---|
 | 1 | Análisis en Python (Google Colab, `.ipynb` ejecutados) | [`notebook/`](notebook/) |
 | 2 | Informe académico en PDF | [`informe/Informe_TP_Siniestros_Futbol_CABA.pdf`](informe/Informe_TP_Siniestros_Futbol_CABA.pdf) |
-| 3 | Presentación | [`presentacion/`](presentacion/) |
+| 3 | Presentación | [Ver presentación online](https://htmlpreview.github.io/?https://github.com/luca-fce/siniestros-futbol-caba/blob/main/presentacion/presentacion.html) · [archivo](presentacion/presentacion.html) |
 
 Consigna del trabajo: [`informe/pautas/TRABAJO PRACTICO.pdf`](informe/pautas/TRABAJO%20PRACTICO.pdf)
 
