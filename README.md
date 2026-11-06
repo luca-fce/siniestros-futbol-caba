@@ -27,6 +27,8 @@ Se consideran todos los partidos de la Selección Argentina (oficiales y amistos
 
 Consigna del trabajo: [`informe/pautas/TRABAJO PRACTICO.pdf`](informe/pautas/TRABAJO%20PRACTICO.pdf)
 
+Informe del trabajo escrito en LaTeX: [overleaf.com](https://www.overleaf.com/project/6aee2fb146de38bb06a5f898/share#770554c153402824d90a6d031579e1eb1ee2fe94990f2bad)
+
 ## Notebooks (ejecutar en este orden)
 
 Cada notebook corresponde a un punto de la consigna y tiene el botón *Open in Colab*. Todos leen los datos directamente desde este repositorio.
